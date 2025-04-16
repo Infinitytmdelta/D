@@ -1,0 +1,2 @@
+Ares-EN.dll
+Ares-FR.dll
