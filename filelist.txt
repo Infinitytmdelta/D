@@ -1,2 +1,3 @@
-Ares-EN.dll
-Ares-FR.dll
+Ares-English-0.0.1.dll
+Ares-FR-0.0.1.dll
+Osiris.dll
